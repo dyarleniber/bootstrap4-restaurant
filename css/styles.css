@@ -9,14 +9,14 @@
   min-height: 400px; }
 
 .footer {
-  background-color: #D1C4E9;
+  background-color: #8b6b61;
   margin: 0px auto;
   padding: 20px 0px; }
 
 .jumbotron {
   margin: 0px auto;
   padding: 70px 30px;
-  background: #9575CD;
+  background: #5d4037;
   color: floralwhite; }
 
 address {
@@ -29,7 +29,7 @@ body {
   z-index: 0; }
 
 .navbar-dark {
-  background-color: #512DA8; }
+  background-color: #321911; }
 
 .tab-content {
   border-left: 1px solid #ddd;
@@ -38,7 +38,7 @@ body {
   padding: 10px; }
 
 .carousel {
-  background: #512DA8; }
+  background: #321911; }
   .carousel .carousel-item {
     height: 300px; }
     .carousel .carousel-item img {
@@ -53,10 +53,39 @@ body {
   bottom: 0px; }
 
 .modal-header {
-  background-color: #512DA8;
+  background-color: #321911;
   color: floralwhite; }
   .modal-header .close {
     color: floralwhite; }
 
 .modal-body {
-  background-color: #D1C4E9; }
+  background-color: #8b6b61; }
+
+.btn-warning {
+  color: black; }
+
+#reservetableModalButton {
+  color: black;
+  margin-top: 25px; }
+
+a {
+  color: black;
+  font-weight: bold; }
+
+.navbar-brand img {
+  width: 41px; }
+
+#jumbotron-logo {
+  width: 250px; }
+
+.img-thumbnail {
+  width: 120px; }
+
+#loginModalButton {
+  cursor: pointer; }
+
+address {
+  font-size: 100%; }
+
+#copyright {
+  margin-top: 25px; }
