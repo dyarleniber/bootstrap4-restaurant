@@ -4,8 +4,6 @@ Responsive website for a restaurant with Bootstrap 4 using grids and responsive 
 
 There is some examples of the building the project through task automation using NPM scripts, and task runners like Grunt and Gulp.
 
-![Screenshot](index-screenshot.png?raw=true "Screenshot")
-
 License
 ----
 
